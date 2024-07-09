@@ -17,4 +17,4 @@ This dataset is comprised of 5 different categories (business, entertainment, po
 4- Model Training and evaluating
 
 ### References
-Source of this code is [Applied Deep Learning Course](https://maharatech.gov.eg/course/view.php?id=738)
+The source is [Applied Deep Learning Course](https://maharatech.gov.eg/course/view.php?id=738)
